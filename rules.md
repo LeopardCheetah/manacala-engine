@@ -47,6 +47,9 @@ Holes are marked with curly brackets {}, and the bank is marked by a set of two 
 6. If a player's last pebble is placed into a hole that is not empty, they will place their pebble into that hole, then pick up all the marbles in that hole and continue moving in a counter-clockwise direction.
 7. If a player's last pebble ends in their bank, they get to go again.
 
+
+#### Example:
+
 If player A starts their turn by picking the pebbles up from hole P, then the first pebble would be placed in hole 1, the second in hole 2, etc.
 ```
 
